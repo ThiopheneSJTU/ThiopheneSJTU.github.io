@@ -21,7 +21,7 @@
       <link href="/2018/09/07/test/"/>
       <url>/2018/09/07/test/</url>
       
-        <content type="html"><![CDATA[<p>sadfadwsfasdf</p>]]></content>
+        <content type="html"><![CDATA[<p>sadfadwsfasdf<br>$$<br>f(x)=\sin x+g(x)<br>$$</p>]]></content>
       
       
       <categories>
