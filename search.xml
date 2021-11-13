@@ -17,11 +17,11 @@
     
     
     <entry>
-      <title>typora-vue-theme主题介绍</title>
-      <link href="/2018/09/07/test/"/>
-      <url>/2018/09/07/test/</url>
+      <title>一道群内高数题</title>
+      <link href="/2021/11/13/qun-nei-ji-xian-ti-yi-dao/"/>
+      <url>/2021/11/13/qun-nei-ji-xian-ti-yi-dao/</url>
       
-        <content type="html"><![CDATA[<p>sadfadwsfasdf<br>$$<br>f(x)=\sin x+g(x)<br>$$</p>]]></content>
+        <content type="html"><![CDATA[<p>求极限$\lim\limits_{n\rightarrow \infty}n\sin\left(2\pi n!\mathrm{e}\right)$的值.</p><p>解答：利用$\mathrm{e}$的估计式，有<br>$$<br>\mathrm{e}=\frac{1}{0!}+\frac{1}{1!}+\cdots+\frac{1}{n!}+\frac{1}{\left(n+1\right)!}+\frac{\theta_n}{\left(n+1\right)\left(n+1\right)!},0&lt;\theta_n&lt;1<br>$$<br>从而得到<br>$$<br>\lim\limits_{n\rightarrow \infty}n\sin\left(2\pi n!\mathrm{e}\right)=2\pi<br>$$</p>]]></content>
       
       
       <categories>
